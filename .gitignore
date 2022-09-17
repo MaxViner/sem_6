@@ -13,7 +13,10 @@
 x64/
 [Bb]in/
 [Oo]bj/
-
+angles,csproj
+task2.csproj
+fibonachi.csproj
+task1.csproj
 # MSTest test Results
 [Tt] est [Rr]*/
 [Bb]uild[Ll]og.*
